@@ -1,6 +1,4 @@
-# Bitcoin – Price Determinants: Econometric Analysis  
-
-Academic project completed during the third year of Economics and Management.  
+It is an academic project completed during the third year of Bachelor in Economics and Management.  
 Analysis of Bitcoin’s price determinants using multiple regression and an ARIMA model in R.  
 
 ## Relevance  

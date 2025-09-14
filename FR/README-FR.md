@@ -1,0 +1,16 @@
+Projet académique réalisé en troisième année de Licence d'Économie-Gestion.  
+Étude des déterminants du prix du Bitcoin à l'aide d’une régression multiple et d’un modèle ARIMA sous R.  
+
+## Pertinence  
+- Montre comment un actif non conventionnel peut être étudié avec des outils économétriques classiques.  
+- Met en évidence la singularité du Bitcoin : volatilité, chocs exogènes, comportements mimétiques.  
+- Permet d'analyser son intégration croissante aux marchés financiers traditionnels.  
+
+## Limites et regard critique  
+- Réalisé au niveau, le cadrage est donc simplifié.  
+- Les données sont mensuelles, donc nous perdons des informations sur la microstructure.  
+- Variables limitées : d'autres déterminants (flux institutionnels, innovations technologiques, régulations régionales) devraient être inclus.  
+- Modélisation linéaire parfois insuffisante face à la nature non stationnaire et spéculative du Bitcoin.  
+
+## Perspective  
+Aujourd'hui en Master 1 Finance, ce travail constitue une première étape dans l'analyse quantitative des actifs financiers émergents.  
